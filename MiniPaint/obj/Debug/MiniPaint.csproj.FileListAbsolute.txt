@@ -1,0 +1,18 @@
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\bin\Debug\MiniPaint.exe.config
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csprojResolveAssemblyReference.cache
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\obj\Debug\MiniPaint.Paint.resources
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.Cache
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\bin\Debug\MiniPaint.exe
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\bin\Debug\MiniPaint.pdb
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\obj\Debug\MiniPaint.exe
+c:\users\andre febrianto\documents\visual studio 2015\Projects\MiniPaint\MiniPaint\obj\Debug\MiniPaint.pdb
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\bin\Debug\MiniPaint.exe.config
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\obj\Debug\MiniPaint.exe
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\obj\Debug\MiniPaint.pdb
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\bin\Debug\MiniPaint.exe
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\bin\Debug\MiniPaint.pdb
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csprojResolveAssemblyReference.cache
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\obj\Debug\MiniPaint.Paint.resources
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\obj\Debug\MiniPaint.Properties.Resources.resources
+D:\UTS_KomputerGrafik_141524001\MiniPaint\MiniPaint\obj\Debug\MiniPaint.csproj.GenerateResource.Cache
